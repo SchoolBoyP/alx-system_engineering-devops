@@ -1,1 +1,1 @@
-Repository with shell solutions
+Shell redirections
